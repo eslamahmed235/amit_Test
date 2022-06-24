@@ -5,3 +5,5 @@ print("Hello World")
 
 def print_hello():
     print("Hello World")
+
+print ('welcome to github')
